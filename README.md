@@ -4,6 +4,8 @@
 [![Crates.io](https://img.shields.io/crates/v/iced_baseview.svg)](https://crates.io/crates/iced_baseview)
 [![License](https://img.shields.io/crates/l/iced_baseview.svg)](https://github.com/BillyDM/iced_baseview/blob/main/LICENSE)
 
+> This project has moved to a new hard fork of NIH-plug for easier maintanence: https://codeberg.org/BillyDM/nih-plug
+
 A [baseview] backend for the [Iced] GUI library
 
 <div align="center">
